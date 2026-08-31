@@ -3,6 +3,7 @@
 <p>Circuito feito no site Tinkercard, no qual quando o botão é apertado, o LED da <strong>direita</strong> acende, e se o botão for apertado novamente, o LED da <strong>direita</strong> se apaga e o LED da <strong>esquerda</strong> se acende.</p>
 <p>Caso o botão seja pressionado pela 3ª vez, todos os LEDS se apagaram.</p>
 
+[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/glwxXqotW8g-copy-of-brilliant-turing-bigery)
 
 <h2><strong>Materiais que foram usados</strong></h1>
 
